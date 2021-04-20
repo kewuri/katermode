@@ -9,5 +9,7 @@ int main(){
 	scanf("%d", &a);
 	scanf("%d", &b);
 	printf("The sum of A and B is %d", a+b);
+	printf("The minus of A and B is %d\n", a-b);
+	printf("The division of A and B is %d\n", a/b);
 	return 0;
 }
