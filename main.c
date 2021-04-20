@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "std.h"
 
+// программа является учебной 
+
 int main(){
 	int a, b;
 	printf("Enter integer A and integer B from keyboard\n");
