@@ -10,6 +10,6 @@ int main(){
 	scanf("%d", &b);
 	printf("The minus of A and B is %d\n", a-b);
 	printf("The sum of A and B is %d\n", a+b);
-	printf("The multiplication of A and B is %d\n", a*b);
+	printf("The division of A and B is %d\n", a/b);
 	return 0;
 }
